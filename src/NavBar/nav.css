@@ -1,0 +1,24 @@
+* {
+    font-family: 'Genos', sans-serif;
+}
+
+.nvl{
+    width: 150px;
+}
+.navb{
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    max-width: auto;
+    background-color: rgba(207, 204, 200, 0.253);
+    border-radius: 1rem;
+}
+.navb .separador{
+    text-decoration: none;
+    margin-left: 25%;
+    color: aliceblue;
+    padding: 8%;
+}
+.navb .Links{
+    
+}

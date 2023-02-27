@@ -1,0 +1,21 @@
+* {
+    font-family: 'Genos', sans-serif;
+}
+.textbox1{
+    background-color: white;
+    width: auto;
+    margin-top: 3%;
+    margin-left: 12%;
+    margin-right: 12%;
+    box-shadow: 5px 5px 35px rgb(85 84 84);
+    border-radius: 1em;
+}
+.texts{
+    color: grey;
+    margin-left: 1%;
+}
+.titulos{
+    color: grey;
+    margin-left: 1%;
+}
+

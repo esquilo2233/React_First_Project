@@ -1,3 +1,20 @@
-*{
-    text-align: center;    
+* {
+    font-family: 'Genos', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, #96297e,#4d2b9c,#96297e);
+    animation-name: degrade;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background-size: 300% 100%;
+}
+@keyframes degrade{
+    0%{
+        background-position-x: 0%;
+    }
+    100%{
+        background-position-x: 100%;
+    }
 }
