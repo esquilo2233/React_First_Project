@@ -12,7 +12,8 @@ const NavBar = () => {
          </div>
          {/*Links div */}
            <div className="links">
-            <Link className="separador" to="../AboutUs">AboutUs</Link>
+            <Link className="separador" to="../AboutMe"><button className="btn_nav">AboutMe</button></Link>
+            <Link className="separador" to="../CV"><button className="btn_nav">CV</button> </Link>
            </div>
 
          </nav>

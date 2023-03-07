@@ -13,8 +13,12 @@ function App() {
             <HomePage/>
           </Route>
           {/*AboutUs*/}
-          <Route exact path="/AboutUs">
+          <Route exact path="/AboutMe">
           <NavBar/>
+          </Route>
+          {/*Curriculum vitae*/}
+          <Route exact path="/CV">
+            <NavBar/>
           </Route>
         </Switch>
       </div>
